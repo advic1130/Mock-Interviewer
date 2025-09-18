@@ -1,6 +1,6 @@
-Flask==2.3.3
-SpeechRecognition==3.10.0
-gTTS==2.3.2
-nltk==3.8.1
+groq==0.31.1
+streamlit==1.28.1
 python-dotenv==1.0.0
-gunicorn
+pandas>=2.2.2
+plotly==5.17.0
+reportlab==4.0.4
